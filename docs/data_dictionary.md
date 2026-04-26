@@ -61,3 +61,4 @@
 - **Encoding:** Raw file uses ISO-8859-1 (Latin-1) due to special characters in product descriptions (e.g., accented letters).
 - **Outliers:** Revenue values above the 99th percentile exist (bulk B2B orders). Not removed — legitimate transactions. Regression models cap at 99th percentile for stability.
 - **Time gaps:** No transactions on weekends — dataset is B2B wholesale, not B2C retail.
+
