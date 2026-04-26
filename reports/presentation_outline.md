@@ -137,3 +137,4 @@ Show the 7 KPIs as a clean scorecard:
 8. Why did you keep GUEST customers instead of dropping them?
 9. What are the limitations of using first keyword as a product category?
 10. If you had 6 more months, what would you add?
+
