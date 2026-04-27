@@ -45,3 +45,4 @@ Dashboard screenshots are committed to `tableau/screenshots/`.
 | `screenshot_geography.png` | Country map view |
 | `screenshot_products.png` | Product performance view |
 | `screenshot_segments.png` | RFM customer segment view |
+
